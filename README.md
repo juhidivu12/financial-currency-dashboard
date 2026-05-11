@@ -36,4 +36,4 @@ Juhi Jain
 
 ## Dashboard Screenshot
 
-![Financial Dashboard](dashboard_screenshots/financial-dashboard-image.png)
+![Financial Dashboard](dashboard_screenshots/financial-dashboard-image.jpg)
