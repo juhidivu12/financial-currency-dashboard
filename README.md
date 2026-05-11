@@ -30,7 +30,10 @@ financial-currency-dashboard/
 4. Run Apache Superset
 
 ## Dashboard Preview
-(Add screenshots here)
 
 ## Author
 Juhi Jain
+
+## Dashboard Screenshot
+
+![Financial Dashboard](dashboard_screenshots/financial-dashboard-image.png)
